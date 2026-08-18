@@ -1,0 +1,118 @@
+{
+  "_AdminLayout-CxaJppxN.js": {
+    "file": "assets/AdminLayout-CxaJppxN.js",
+    "name": "AdminLayout",
+    "imports": [
+      "resources/js/app.jsx",
+      "_index-CgzuH9Mr.js"
+    ]
+  },
+  "_FormGroup-JOTqagGk.css": {
+    "file": "assets/FormGroup-JOTqagGk.css",
+    "src": "_FormGroup-JOTqagGk.css"
+  },
+  "_FormGroup-dPmRZh9K.js": {
+    "file": "assets/FormGroup-dPmRZh9K.js",
+    "name": "FormGroup",
+    "imports": [
+      "resources/js/app.jsx",
+      "_index-CgzuH9Mr.js"
+    ],
+    "css": [
+      "assets/FormGroup-JOTqagGk.css"
+    ]
+  },
+  "_index-CgzuH9Mr.js": {
+    "file": "assets/index-CgzuH9Mr.js",
+    "name": "index",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "resources/js/Pages/Manager/Destaques/adicionar.jsx": {
+    "file": "assets/adicionar-CwC5Q9aA.js",
+    "name": "adicionar",
+    "src": "resources/js/Pages/Manager/Destaques/adicionar.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_index-CgzuH9Mr.js",
+      "_AdminLayout-CxaJppxN.js",
+      "_FormGroup-dPmRZh9K.js"
+    ]
+  },
+  "resources/js/Pages/Manager/Destaques/editar.jsx": {
+    "file": "assets/editar-B_AR012J.js",
+    "name": "editar",
+    "src": "resources/js/Pages/Manager/Destaques/editar.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_index-CgzuH9Mr.js",
+      "_AdminLayout-CxaJppxN.js",
+      "_FormGroup-dPmRZh9K.js"
+    ]
+  },
+  "resources/js/Pages/Manager/Home/index.jsx": {
+    "file": "assets/index-CpJFUz5S.js",
+    "name": "index",
+    "src": "resources/js/Pages/Manager/Home/index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_index-CgzuH9Mr.js",
+      "_AdminLayout-CxaJppxN.js"
+    ]
+  },
+  "resources/js/Pages/Manager/Links/adicionar.jsx": {
+    "file": "assets/adicionar-CajkXv7X.js",
+    "name": "adicionar",
+    "src": "resources/js/Pages/Manager/Links/adicionar.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_index-CgzuH9Mr.js",
+      "_AdminLayout-CxaJppxN.js",
+      "_FormGroup-dPmRZh9K.js"
+    ]
+  },
+  "resources/js/Pages/Manager/Links/editar.jsx": {
+    "file": "assets/editar-59f36sLK.js",
+    "name": "editar",
+    "src": "resources/js/Pages/Manager/Links/editar.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_index-CgzuH9Mr.js",
+      "_AdminLayout-CxaJppxN.js",
+      "_FormGroup-dPmRZh9K.js"
+    ]
+  },
+  "resources/js/Pages/Manager/Usuarios/login.jsx": {
+    "file": "assets/login-DCKJVpBI.js",
+    "name": "login",
+    "src": "resources/js/Pages/Manager/Usuarios/login.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_index-CgzuH9Mr.js"
+    ]
+  },
+  "resources/js/app.jsx": {
+    "file": "assets/app-Cs7c4NIC.js",
+    "name": "app",
+    "src": "resources/js/app.jsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/Pages/Manager/Destaques/adicionar.jsx",
+      "resources/js/Pages/Manager/Destaques/editar.jsx",
+      "resources/js/Pages/Manager/Home/index.jsx",
+      "resources/js/Pages/Manager/Links/adicionar.jsx",
+      "resources/js/Pages/Manager/Links/editar.jsx",
+      "resources/js/Pages/Manager/Usuarios/login.jsx"
+    ],
+    "css": [
+      "assets/app-CRqKo1qS.css"
+    ]
+  }
+}
